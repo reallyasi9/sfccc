@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# raw and processed data files
+raw_data/
+processed_data/
