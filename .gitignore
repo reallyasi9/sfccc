@@ -59,3 +59,9 @@ target/
 # raw and processed data files
 raw_data/
 processed_data/
+
+# PyCharm
+.idea/
+
+# IPython/Jupyter
+.ipynb_checkpoints/
